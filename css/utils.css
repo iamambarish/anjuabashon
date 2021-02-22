@@ -42,12 +42,13 @@
 .btn {
   padding: 0px 20px;
   padding-top: 3px;
-  border: 2px solid black;
+  border: 2px solid Black;
   border-radius: 6px;
   font-family: var(--font1);
   font-size: 16px;
   cursor: pointer;
   transition: all 0.3s ease-in-out;
+  background:Cornsilk;
 }
 
 .btn:hover {
@@ -71,6 +72,6 @@
   margin: 7px 0;
   font-size: 18px;
   font-family: var(--font1);
-  border: 2px solid var(--main-bg-color);
+  border: 2px solid DodgerBlue;
     border-radius: 5px;
 }
